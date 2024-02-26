@@ -1,0 +1,23 @@
+.skill-title{
+    color: blue;
+    font-size: 46px;
+    font-family:"Roboto Mono", monospace;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.skill-info{
+    display: inline-block;
+    margin-inline: 20px;
+}
+
+.skill-text{
+    color: black;
+    font-size: 34px;
+    font-family:"Roboto Mono", monospace;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+

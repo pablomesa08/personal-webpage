@@ -1,0 +1,24 @@
+.cont-title{
+  color: blue;
+  font-size: 46px;
+  font-family:"Roboto Mono", monospace;
+  font-weight: bold;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.cont-info{
+  display: inline-block;
+  margin-inline: 30px;
+}
+
+.cont-sub{
+  color:darkcyan;
+  font-size: 24px;
+  font-family:"Roboto Mono", monospace;
+  font-weight: bold;
+  text-align: center;
+}
+.a-link{
+  text-decoration: none;
+}

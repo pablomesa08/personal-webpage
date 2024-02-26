@@ -1,0 +1,31 @@
+.iam-autor{
+    height: 280px;
+    width: 280px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.iam-title1{
+    color: blue;
+    font-size: 52px;
+    font-family:"Roboto Mono", monospace;
+    font-weight: bold;
+    margin-top: 130px;
+}
+
+.iam-container{
+    display:flex;
+}
+
+.iam-info{
+    margin-left: 70px;
+    margin-right: 40px;
+}
+
+.iam-intro{
+    font-family: "Roboto Mono", monospace;
+    font-size: 26px;
+    font-style: italic;
+    color: black;
+    text-align: justify;
+}
