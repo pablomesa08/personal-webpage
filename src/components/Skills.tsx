@@ -20,23 +20,23 @@ function Skills(){
           <Box>
             <div className='skill-info'>
               <h1 className='skill-text'>{skillsList[0]}</h1>
-              <ChatIcon sx={{ fontSize: 110, color: blue[900] ,display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
+              <ChatIcon sx={{ fontSize: 100, color: blue[900] ,display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
             </div>
             <div className='skill-info'>
               <h1 className='skill-text'>{skillsList[1]}</h1>
-              <TranslateIcon sx={{fontSize: 110, color: blue[900], display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
+              <TranslateIcon sx={{fontSize: 100, color: blue[900], display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
             </div>
             <div className='skill-info'>
               <h1 className='skill-text'>{skillsList[2]}</h1>
-              <GroupsIcon sx={{ fontSize: 110, color: blue[900], display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
+              <GroupsIcon sx={{ fontSize: 100, color: blue[900], display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
             </div>
             <div className='skill-info'>
               <h1 className='skill-text'>{skillsList[3]}</h1>
-              <LocalLibraryIcon sx={{ fontSize: 110, color: blue[900] ,display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
+              <LocalLibraryIcon sx={{ fontSize: 100, color: blue[900] ,display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
             </div>
             <div className='skill-info'>
               <h1 className='skill-text'>{skillsList[4]}</h1>
-              <SearchIcon sx={{ fontSize: 110, color: blue[900], display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
+              <SearchIcon sx={{ fontSize: 100, color: blue[900], display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
             </div>
           </Box>
         </Container>
