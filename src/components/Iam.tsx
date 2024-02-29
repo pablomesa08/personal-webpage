@@ -1,6 +1,6 @@
 import '../Iam.css';
 
-const message: string = "Systems Engineering and Computing student in Universidad EIA, located in Envigado, Colombia. My interests are Web Development, Databases and Cloud Computing. I also enjoy Teology, History, Reading, Watching Football and Basketball.";
+const message: string = "Systems Engineering and Computing student in Universidad EIA, located in Envigado, Colombia. My interests are Web Development, Databases and Cloud Computing. I also enjoy Theology, History, Reading, Watching Football and Basketball.";
 
 function Iam(){
   return(
